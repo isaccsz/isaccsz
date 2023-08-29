@@ -23,6 +23,7 @@ e sou apaixonado por tecnologia ❤️</p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccsz&theme=dracula&hide_langs_below=1" />
 </div>
+
 ## Atividade no Github
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaccsz)](https://github.com/ashutosh00710/github-readme-activity-graph)
