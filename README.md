@@ -7,6 +7,8 @@ e sou apaixonado por tecnologia ❤️</p>
  
 </pre>
 
+<img align="right" width="350" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 ## Tecnologias utilizadas:
 
 <div align="center">
@@ -18,6 +20,9 @@ e sou apaixonado por tecnologia ❤️</p>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 </div>
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaccsz&theme=dracula&hide_langs_below=1" />
+</div>
 ## Atividade no Github
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isaccsz)](https://github.com/ashutosh00710/github-readme-activity-graph)
