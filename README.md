@@ -2,8 +2,8 @@
 
 <pre>
  
-<p align="center">Meu nome é Isac Cruz de Souza, sou estudante de Análise e Desenvolvimento de Sistemas
-e sou apaixonado por tecnologia ❤️</p>
+<p align="center">Meu nome é Isac Cruz de Souza, sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas
+e apaixonado por tecnologia ❤️</p>
  
 </pre>
 
